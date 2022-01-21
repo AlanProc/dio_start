@@ -60,7 +60,7 @@ body {
     min-height: 19rem;
 }
 
-.instagram-logo {
+.instagram_logo {
     height: 3rem;
 }
 
@@ -120,11 +120,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./img/apple-button.png');
+    background-image: url('./img/button_apple.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./img/googleplay-button.png');
+    background-image: url('./img/button_googleplay.png');
 }
 
 /* media queries */
@@ -142,7 +142,7 @@ body {
     }
 
     .instagram-wrapper {
-        width: 90%;
+        width: 70%;
     }
 
     .instagram-phone {
