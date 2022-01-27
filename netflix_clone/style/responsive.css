@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @media screen and (max-width:700px){
     header .container{
         flex-direction:column;
@@ -12,4 +13,20 @@
         width:50%;
     }
 
+=======
+@media screen and (max-width:700px){
+    header .container{
+        flex-direction:column;
+    }
+    .botao{
+        margin-top: 5px;
+        width: 190px;
+    }
+}
+@media screen and (min-width:1000px){
+    .descricao{
+        width:50%;
+    }
+
+>>>>>>> 351812b1932e7a92ab790fe3d6a84e4c548c8f78
 }

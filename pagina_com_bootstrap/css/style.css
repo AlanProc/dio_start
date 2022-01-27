@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin:0;
     padding:0;
@@ -30,4 +31,38 @@ body{
 .button{
     font: 20px;
     margin-bottom: 5px;
+=======
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font: 20px;
+}
+.navbar{
+    background-color:gold;
+}
+
+.tec{
+    background-color:midnightblue;
+    font-family: 'Arial', Times, serif;
+    color: white;
+}
+
+.margin{
+    padding-top:10px;
+    padding-bottom:50px;
+}
+.areas{
+    background-color:lightskyblue;
+}
+.contato{
+    background-color:lightskyblue;
+}
+.button{
+    font: 20px;
+    margin-bottom: 5px;
+>>>>>>> 351812b1932e7a92ab790fe3d6a84e4c548c8f78
 }
